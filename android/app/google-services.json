@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240980214424",
+    "project_id": "message-84959",
+    "storage_bucket": "message-84959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240980214424:android:6f0a6fc82bc2b246c986ed",
+        "android_client_info": {
+          "package_name": "at.jord.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240980214424-8aqrn9ftvgba16om2l8jhebdk0v24cda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFNV_jVR-GXmdMJfw_pyVuWJOpIOd3zoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240980214424-8aqrn9ftvgba16om2l8jhebdk0v24cda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
